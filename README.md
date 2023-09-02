@@ -1,1 +1,5 @@
-# patterns-java
+1:-INVERTED HALF PYRAMID    
+   *
+   * *
+   * * *
+   * * * *
