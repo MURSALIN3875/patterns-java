@@ -1,5 +1,5 @@
-1:-INVERTED HALF PYRAMID    
-   *
-   * *
-   * * *
-   * * * *
+<html>
+  <body bgcolor="red">
+    
+  </body>
+</html>
